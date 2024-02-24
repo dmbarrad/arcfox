@@ -38,7 +38,8 @@
 }
 
 #sidebar-button {
-  margin-left: 10px !important;
+/*  margin-left: 10px !important; */
+  margin-right: 10px !important;
 }
 
 #navigator-toolbox:not(:hover) {
@@ -73,11 +74,11 @@
 }
 
 #nav-bar {
-  background-color: #3b3f52 !important;
+/*  background-color: #3b3f52 !important; */
 }
 
 #urlbar-background {
-  background-color: #323446 !important;
+/*  background-color: #323446 !important; */
 }
 
 toolbarbutton[open="true"] {
@@ -89,7 +90,7 @@ toolbarbutton[open="true"] {
 }
 
 #sidebar-box {
-  min-width: 300px !important;
+  min-width: 200px !important;
   max-width: 300px !important;
   min-height: unset !important;
   max-height: unset !important;
@@ -97,7 +98,7 @@ toolbarbutton[open="true"] {
 }
 
 #sidebar-splitter {
-  background-color: transparent !important;
+/*  background-color: transparent !important; */
   border: none !important;
   box-shadow: none !important;
 }
