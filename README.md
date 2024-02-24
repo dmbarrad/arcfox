@@ -17,7 +17,9 @@ To install arcfox-theme you need to open your firefox configurations and turn st
 - When the folder opens, search for a folder called "chrome", if you don't find it create one.
 - Inside the "chrome" folder, drop the "userChrome.css" that you find under themes/ folder
 - Restart firefox.
-
+### installing the sidebery config
+Go to the settings of sidebery, and look for the help section, at the end of that help page, you'll find a button named "Import addon data", use it to import the sidebery json file in this repo.
+honestly I can't remember from whom I stole this config file, if you know open an issue, please.
 # Removing ArcFox
 If you have a major issue, or just want a different/default look, here is how to remove ArcFox.
 1. Remove `(Firefox Profile)/chrome/userchrome.css`
@@ -26,7 +28,8 @@ If you have a major issue, or just want a different/default look, here is how to
 4. Be happy with your now boring and unproductive firefox!
 
 # Support
-Please if you're going to donate, give it to the original maker of this theme. [ko-fi](https://ko-fi.com/nikollesan) page
+Please if you're going to donate, give it to the original maker of this theme. thanks to him and others I can't remember their names 
+his [ko-fi](https://ko-fi.com/nikollesan) page
 
 # License
 My version goes under the AGPL-3.0-only+NIGGER License
