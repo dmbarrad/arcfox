@@ -17,7 +17,7 @@ To install arcfox-theme you need to open your firefox configurations and turn st
 - When the folder opens, search for a folder called "chrome", if you don't find it create one.
 - Inside the "chrome" folder, drop the "userChrome.css" that you find under themes/ folder
 - Restart firefox.
-### installing the sidebery config
+### Installing the Sidebery config
 Go to the settings of sidebery, and look for the help section, at the end of that help page, you'll find a button named "Import addon data", use it to import the sidebery json file in this repo.
 honestly I can't remember from whom I stole this config file, if you know open an issue, please.
 # Removing ArcFox
