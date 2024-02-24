@@ -1,7 +1,7 @@
 # dmbarrad's configs of his FireFoxy
 This is My modified version of arcfox from betterbrowser.  
-I don't use their addons, i use configured sidebery.  
-I also use Adaptive Tab Bar Color Extension, which makes the entire browser adapt to the website's colors.  
+I don't use their addons, i use a configured sidebery.  
+I also use Adaptive Tab Bar Color Extension, which makes the entire browser adapt to website's colors.  
 ![An Overview of my Setup](.overview.png)
 
 # What is ArcFox?
