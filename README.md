@@ -2,7 +2,7 @@
 This is My modified version of arcfox from betterbrowser.  
 I don't use their addons, i use a configured sidebery.  
 I also use Adaptive Tab Bar Color Extension, which makes the entire browser adapt to website's colors.  
-I also use Vimium-C for my traveling, i rarely click buttons; that's why i have no back or forward or even the X button.  
+I use Vimium-C for my traveling, i rarely click buttons; that's why i have no back or forward or even the X button.  
 ![An Overview of my Setup](.overview.png)
 
 # What is ArcFox?
