@@ -2,14 +2,11 @@ My modified version of arcfox from betterbrowser.
 I don't use thier addons, i use configured sidebery.
 
 # What is ArcFox?
-<img src="public/media/screenshot.png"/>
-
 ArcFox is an improvment of the appearance of arc browser to firefox. 
 
 # Installation
 ### ArcFox-Theme Installation
 To install arcfox-theme you need to open your firefox configurations and turn style modification on. To do that please follow this steps:
-
 - Digit <a href="about:config">"about:config"</a> on firefox address bar and click enter.
 - On the search bar, search for "toolkit.legacyUserProfileCustomizations.stylesheets" and set the value to "true".
 - Open <a href="about:support">"about:support"</a> and click on the “Open Folder” button on the right of "Profile Folder" to open it.
@@ -19,13 +16,9 @@ To install arcfox-theme you need to open your firefox configurations and turn st
 
 # Removing ArcFox
 If you have a major issue, or just want a different/default look, here is how to remove ArcFox.
-
 1. Remove `(Firefox Profile)/chrome/userchrome.css`
-
 2. Remove the 'ArcFox' extension from Firefox
-
 3. Restart your Firefox session, and it should be fixed! If not, make an issue in the issues tab
-
 4. Be happy with your now boring and unproductive firefox!
 
 # Support
