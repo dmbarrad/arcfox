@@ -1,8 +1,11 @@
-My modified version of arcfox from betterbrowser.
-I don't use thier addons, i use configured sidebery.
+# dmbarrad's configs of his FireFoxy
+This is My modified version of arcfox from betterbrowser.  
+I don't use thier addons, i use configured sidebery.  
+I also use Adaptive Tab Bar Color Extension, which makes the entire browser adapt to the website's colors.  
+![An Overview of my Setup](.overview.png)
 
 # What is ArcFox?
-ArcFox is an improvment of the appearance of arc browser to firefox. 
+ArcFox is an improvment of the appearance of Firefox inspired by The Arc browser . 
 
 # Installation
 ### ArcFox-Theme Installation
